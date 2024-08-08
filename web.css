@@ -28,7 +28,7 @@ background-repeat: no-repeat;
 } */
 .icon-rtl {
     padding-right: 25px;
-    background: url("/search.png") no-repeat right;
+    background: url("search.png") no-repeat right;
     background-size:contain;
     width:400px;
     height:40px;
@@ -46,7 +46,7 @@ h1{
 }
 .center
 {
-    background-image: url(/new.jpeg);
+    background-image: url(new.jpeg);
     /* display: inline; */
     background-repeat: no-repeat;
     /* width: 300px;
@@ -61,7 +61,7 @@ h1{
 }
 .topsearch{
     padding-right: 25px;
-    background: url("/whsearch.png") no-repeat right;
+    background: url("whsearch.png") no-repeat right;
     background-size:contain;
     /* width:400px;
     height:40px; */
