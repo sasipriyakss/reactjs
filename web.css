@@ -46,7 +46,7 @@ h1{
 }
 .center
 {
-    background-image: url(new.jpeg);
+    background-image:url('new.jpeg');
     /* display: inline; */
     background-repeat: no-repeat;
     /* width: 300px;
